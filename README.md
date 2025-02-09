@@ -17,7 +17,7 @@ l
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=LLW+MD+V+1.0" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTechOfficial/">
+<a href="https://github.com/KARILLW/">
     <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
 </a>
 <hr>
@@ -26,7 +26,7 @@ l
 <p align="center">
 
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKARILLW%2FLLW-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/fork">
@@ -51,14 +51,14 @@ l
     <img src="https://img.shields.io/github/languages/top/KARILLW/LLW-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
+  <a href="https://github.com/KARILLW/LLW-MD">
+    <img src="https://img.shields.io/static/v1?label=Author&message=LAKIRA%20LAKDAM&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-LLW%20GANG%20(TC)-purple&style=plastic">
 
   </a>
 </p>
