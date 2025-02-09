@@ -1,13 +1,23 @@
 {
-  "name": "© LLW MD V1 (2.5)",
-  "description": "© LLW MD V1 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "logo here",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "LLW MD V1",
+  "description": "best whatsapp bot by LLW",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
-      "SESSION_ID": {
+    "SESSION_ID": {
       "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "LLW IS ALIVE NOW!.",
       "required": true
     }   
 },
@@ -18,6 +28,4 @@
         }
      ],
   "stack": "heroku-24"
-  
-  
 }
