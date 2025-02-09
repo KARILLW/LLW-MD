@@ -18,7 +18,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 </p>
 <p align="center">
 <a href="https://github.com/KARILLW/">
-    <img src="https://pomf2.lain.la/f/aqi35mmg.jpg"  width="700px">
+    <img src="imghere"  width="700px">
 </a>
 <hr>
 
@@ -40,25 +40,25 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 <p align="center">
   <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=green&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/github/license/KARILLW/LLW-MD?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/KARILLW/LLW-MD?color=yellow&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/github/languages/top/KARILLW/LLW-MD?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/KARILLW/LLW-MD?color=red&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=LAKIRA%20LAKDAM&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=LAKIRA%20LAKDAM&color=blue&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-LLW%20GANG%20(TC)-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-LLW%20GANG%20(LLW)-purple&style=plastic">
 
   </a>
 </p>
