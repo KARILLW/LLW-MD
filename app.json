@@ -1,31 +1,23 @@
 {
-  "name": "LLW MD V1",
-  "description": "best whatsapp bot by LLW",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["bot"],
+  "name": "LLW-MD V1",
+  "description": "LLW-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "logo here",
+  "keywords": ["llwmd", "bot", "whatsapp bot", "multi device", "llw-md"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
-      "required": true
-    },  
-
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
-      "required": true
+            "description": "Type the Session-ID you got from scaning QR",
+            "required": true,
+            "value": "put session id here"
+        }
     },
-    
-    "ALIVE_MSG": {
-      "description": "LLW IS ALIVE NOW!.",
-      "required": true
-    }   
-},
-
-     "buildpacks": [
+         "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
   "stack": "heroku-24"
+  
+  
 }
