@@ -6,9 +6,9 @@ CHECK IT OUT!GITHUB FREE DEPLOY
 IS THE ONLY DEPLOYMENT METHOD
 THAT IS AVAILABLE NOW!🙃❤️
 
-____________________________________
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-l
+
 <h1 align="center">LLW MD V 1.O</h1>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
