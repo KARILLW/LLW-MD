@@ -25,7 +25,7 @@ l
 
 <p align="center">
 
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
+  <a href="https://github.com/KARILLW/LLW-MD">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
@@ -43,12 +43,12 @@ l
     <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA_MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/KARILLW/LLW-MD">
+    <img src="https://img.shields.io/github/license/KARILLW/LLW-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA_MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/KARILLW/LLW-MD">
+    <img src="https://img.shields.io/github/languages/top/KARILLW/LLW-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
@@ -57,7 +57,7 @@ l
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
+  <a href="https://github.com/KARILLW/LLW-MD">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
