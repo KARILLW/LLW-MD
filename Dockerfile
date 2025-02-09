@@ -7,15 +7,14 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
-  
-WORKDIR /usr/src/app
 
 COPY package.json .
 
-RUN npm install && npm install -g qrcode-terminal pm2
+RUN npm install
 
 COPY . .
 
-EXPOSE 5000
+EXPOSE 8000
 
-CMD ["npm", "start"]
+CMD ["node", "main.js"]
+
