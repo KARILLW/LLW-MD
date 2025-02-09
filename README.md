@@ -17,7 +17,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=LLW+MD+V+1.0" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/KARILLW/">
+<a href="https://github.com/LLWEDITZ/">
     <img src="imghere"  width="700px">
 </a>
 <hr>
@@ -25,39 +25,39 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 <p align="center">
 
-  <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKARILLW%2FLLW-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLLWEDITZ%2FLLW-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/KARILLW/LLW-MD/fork">
-    <img src="https://img.shields.io/github/forks/KARILLW/LLW-MD?label=Fork&style=social">
+  <a href="https://github.com/LLWEDITZ/LLW-MD/fork">
+    <img src="https://img.shields.io/github/forks/LLWEDITZ/LLW-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/KARILLW/LLW-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/KARILLW/LLW-MD?style=social">
+  <a href="https://github.com/LLWEDITZ/LLW-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/LLWEDITZ/LLW-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA_MD?color=green&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
+    <img src="https://img.shields.io/github/repo-size/LLWEDITZ/LLW-MD?color=green&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/github/license/KARILLW/LLW-MD?color=yellow&label=License&style=plastic">
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
+    <img src="https://img.shields.io/github/license/LLWEDITZ/LLW-MD?color=yellow&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/KARILLW/LLW-MD">
-    <img src="https://img.shields.io/github/languages/top/KARILLW/LLW-MD?color=red&label=Javascript&style=plastic">
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
+    <img src="https://img.shields.io/github/languages/top/LLWEDITZ/LLW-MD?color=red&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/KARILLW/LLW-MD">
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=LAKIRA%20LAKDAM&color=blue&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/KARILLW/LLW-MD">
+  <a href="https://github.com/LLWEDITZ/LLW-MD">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-LLW%20GANG%20(LLW)-purple&style=plastic">
 
   </a>
@@ -78,7 +78,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/KARILLW/LLW-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK LLW MD REPO" width="150"></a>
+<a href="https://github.com/LLWEDITZ/LLW-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK LLW MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
