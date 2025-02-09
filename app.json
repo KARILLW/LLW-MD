@@ -1,18 +1,18 @@
 {
-  "name": "LLW-MD V1",
-  "description": "LLW-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "logo here",
-  "keywords": ["llwmd", "bot", "whatsapp bot", "multi device", "llw-md"],
+  "name": "© LLW MD V1(2.5)",
+  "description": "© LLW MD V1 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": "put session id here"
-        }
-    },
-         "buildpacks": [
+      "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
