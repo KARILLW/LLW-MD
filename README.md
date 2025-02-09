@@ -9,7 +9,6 @@ THAT IS AVAILABLE NOW!🙃❤️
 ____________________________________
 COPY THIS DEPLOY CODE
 
-Deployment code for LLW MD V1
 
 
 
