@@ -29,12 +29,12 @@ l
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKARILLW%2FLLW-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA_MD?label=Fork&style=social">
+  <a href="https://github.com/KARILLW/LLW-MD/fork">
+    <img src="https://img.shields.io/github/forks/KARILLW/LLW-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTechOfficial/VAJIRA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA_MD?style=social">
+  <a href="https://github.com/KARILLW/LLW-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/KARILLW/LLW-MD?style=social">
   </a>
 </p>
 
@@ -65,7 +65,7 @@ l
 
 ## 💡 FOLLOW OUR CHANAL
 
-<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
+<a href="https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
 <br>
 
