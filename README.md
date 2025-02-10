@@ -64,7 +64,7 @@ THAT IS AVAILABLE NOW!🙃❤️
   </a>
 </p>
 
-## 💡 FOLLOW OUR CHANAL
+## 💡 FOLLOW OUR LLW MD CHANNEL FOR MORE UPDATES💯
 
 <a href="https://whatsapp.com/channel/0029Vb0s10t6BIEm7YKTHm3R"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
 
@@ -72,19 +72,19 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 <div align="center">
  
-  <h1>👇 DEPLOY NOW 👇</h1>
+  <h1>👇 DEPLOY NOW LLW MD BOT HERE👇</h1>
 </div>
 
 <br>
 
-## 🎀 STEP 01 -  Fork The Repo
+## ✅ STEP 01 -  Fork The Repo
 
 <a href="https://github.com/LLWEDITZ/LLW-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK LLW MD REPO" width="150"></a>
 </br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## DEPLOY BY SESSION ID (qr or pair code available)
+## ✅STEP 2-DEPLOY BY SESSION ID (qr or pair code available)
 
 <a href="https://mr-rashmika-official-web.vercel.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
