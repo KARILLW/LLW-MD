@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
-  "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "name": "llw_md",
+  "version": "1",
+  "description": "A Simple WhatsApp bot created By Lakira Lakdam",
   "main": "llw.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start llw.js --deep-monitoring --attach --name llw_md",
+    "stop": "pm2 stop llw_md",
+    "restart": "pm2 restart llw_md"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
