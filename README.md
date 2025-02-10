@@ -83,7 +83,7 @@ THAT IS AVAILABLE NOW!🙃❤️
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <br>
 
-## DEPLOY BY SESSION ID (Qr code)
+## DEPLOY BY SESSION ID (qr or pair code available)
 
 <a href="https://mr-rashmika-official-web.vercel.app/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
@@ -96,15 +96,16 @@ THAT IS AVAILABLE NOW!🙃❤️
 
 
 ```
+# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
+
 name: Node.js CI
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
   pull_request:
-    branches:
-      - main
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -114,20 +115,18 @@ jobs:
     strategy:
       matrix:
         node-version: [20.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
       with:
         node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm install
+    - run: npm start
+    - run: npm test
 
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
 ```
 
