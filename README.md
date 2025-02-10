@@ -18,7 +18,8 @@ THAT IS AVAILABLE NOW!🙃❤️
 </p>
 <p align="center">
 <a href="https://github.com/LLWEDITZ/">
-    <img src="https://private-user-images.githubusercontent.com/198413863/411284906-6b1bc5c8-fc02-4c2a-a5bf-b53be0a6cb3e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxMDMwNTAsIm5iZiI6MTczOTEwMjc1MCwicGF0aCI6Ii8xOTg0MTM4NjMvNDExMjg0OTA2LTZiMWJjNWM4LWZjMDItNGMyYS1hNWJmLWI1M2JlMGE2Y2IzZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwOVQxMjA1NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2VjNzk4ZDg3YjFmOTMyZGYzNmVlMzE4OTI0OGRmZGVkZjE0Mjk4ZDFjMWIxZDg4OTc0Zjk2NGUxYTRiYjRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kcTrjzgopJYQM86fd_J6BS7oDsjesJHPjrN7G1ziL4w"  width="700px">
+    <img src="![Untitled912131311121](https://github.com/user-attachments/assets/2b3d0a50-7a4b-456e-86a6-5da7c35e3bd9)
+"  width="700px">
 </a>
 <hr>
 
