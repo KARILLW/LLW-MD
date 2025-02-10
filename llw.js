@@ -1,8 +1,8 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                   𝗤𝗨𝗘𝗘𝗡-𝗔𝗡𝗝𝗨 𝗫ᴾᴿᴼ 𝐁𝐎𝐓                                               //
+//                                        LLW-MD-V1                                              //
 //                                                                                                      //
-//                                         Ｖ：4.0                                                       //
+//                                         Ｖ：1.0                                                       //
 //
 //
 //░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ░█████╗░███╗░░██╗░░░░░██╗██╗░░░██╗  ██╗░░██╗██████╗░██████╗░░█████╗░
@@ -16,20 +16,20 @@
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
-//  * @version      : 4.0
-//  * @author       : Janith Rashmika
-//  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @project_name : © LLW MD V1
+//  * @version      : 1.0
+//  * @author       : Lakira Lakdam
+//  * @youtube      : https://www.youtube.com/@GAMINGLLWFF
+//  * @description  : © LLW MD V1, A Multi-functional WhatsApp bot created by Lakira Lakdam.
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
+//Base by Lakira Lakdam
+//GitHub: @LLWEDITZ
+//WhatsApp: +94705564619
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
-//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
+//   * Created By GitHub: LLWEDITZ
+//   * Credit To Lakira Lakdam
+//   * © 2025 © LLW MD-V1.
 // ⛥┌┤
 // */
 
