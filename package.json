@@ -2,7 +2,7 @@
   "name": "Queen_Anju",
   "version": "4",
   "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "main": "llw.js",
   "scripts": {
     "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
     "stop": "pm2 stop Queen_Anju",
